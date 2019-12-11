@@ -9,11 +9,19 @@ const Home = ({ }) => {
         background: #f3f6f6bd;
         position: relative;
     `;
+    const Headline = styled.div`
+        position: absolute;
+        font-weight:bold;
+        top: 50%;
+        left: 50%;
+        margin-top: -50px;
+        margin-left: -50px;
+    `;
     return (
         <Wrapper >
-            <div>
+            <Headline>
                 Welcome to Home page.
-            </div>
+            </Headline>
         </Wrapper>
     );
 

@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Tab from "./Tab";
 
 const Tabs = ({ children }) => {
+    // React Hooks
     const [activeTab, setActiveTab] = useState(children[0].props.label);
 
     const onClickTabItem = tab => {
