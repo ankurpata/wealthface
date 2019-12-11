@@ -60,6 +60,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Ankur Patankar** - *Initial work* - [PurpleBooth](https://github.com/ankurpata)
+* **Ankur Patankar** - *Initial work* - [ankurpata](https://github.com/ankurpata)
 
  
